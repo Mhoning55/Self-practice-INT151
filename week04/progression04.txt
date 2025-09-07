@@ -1,0 +1,8 @@
+ใช้ .filter() และ .map() เพื่อกรองและแปลงข้อมูลใน array
+ใช้ Array.isArray() เพื่อตรวจสอบชนิดข้อมูลว่าคือ array หรือไม่
+รวม array ด้วย spread operator และ .concat()
+แปลง array เป็น string ด้วย .toString() และ .join()
+เช็คค่าที่อยู่ใน string หรือ array ด้วย .includes()
+เปลี่ยนลำดับข้อมูลด้วย .reverse()
+เรียงลำดับข้อมูลตัวเลขและ object ด้วย .sort() และ localeCompare()
+รู้จักประกาศ array ว่าง
